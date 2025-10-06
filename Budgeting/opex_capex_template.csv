@@ -1,0 +1,8 @@
+Category,Item,Type (OpEx/CapEx),Quantity,Unit Cost,Annual Cost,Notes
+Licensing,Microsoft 365 E3,OpEx,50,36,21600,"Incl. Intune/Entra"
+SaaS,Atlassian Cloud (JSM/Confluence),OpEx,50,22,13200,"JSM/KB"
+Security,Penetration Test,OpEx,1,12000,12000,"Annual"
+Hardware,Laptops (refresh),CapEx,15,1400,21000,"3-year cycle"
+Cloud,AWS/OCI usage,OpEx,1,18000,18000,"Baseline"
+Training,Professional Dev,OpEx,1,5000,5000,"Certifications"
+Compliance,PCI DSS Audit,OpEx,1,15000,15000,"ROC/SAQ support"

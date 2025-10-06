@@ -1,0 +1,6 @@
+Vendor,Criteria,Weight,Score (1-5),Weighted
+<name>,Security (SSO, logs, encryption),0.3,,
+<name>,Functionality fit,0.3,,
+<name>,Cost of ownership,0.2,,
+<name>,Implementation time,0.1,,
+<name>,References/reputation,0.1,,
