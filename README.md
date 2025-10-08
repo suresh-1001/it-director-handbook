@@ -31,3 +31,15 @@ Living playbooks for running a modern IT/TechOps org: incident response, budgeti
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Last commit](https://img.shields.io/github/last-commit/suresh-1001/it-director-handbook)
+
+
+## Artifacts
+- `/docs/` step-by-step with screenshots
+- `/scripts/` repeatable automation
+- `/dashboards/` sample JSON/PBIX (if relevant)
+- `/templates/` redacted policies/SOPs
+
+---
+**Contact**  
+- Email: **suresh@echand.com**  
+- LinkedIn: **linkedin.com/in/sureshchand01**
